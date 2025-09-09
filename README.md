@@ -15,7 +15,6 @@
 
 - 🔭 I'm currently working on **exciting software projects**
 - 🌱 I'm continuously learning **new technologies and frameworks**
-- 📫 How to reach me: **[kulkarni.samp@northeastern.edu]**
 - ⚡ Fun fact: **I love solving complex problems with elegant code!**
 
 ---
