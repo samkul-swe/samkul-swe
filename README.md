@@ -19,22 +19,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=samkul-swe&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samkul-swe&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
