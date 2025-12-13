@@ -56,7 +56,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0D1117&border_color=30363D" />
+  <h1>एकस्मिन् समये एकः विषयः अतीव उत्तमः नियमः अस्ति।</h1>
 </div>
 
 <br/>
