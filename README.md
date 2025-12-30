@@ -1,33 +1,54 @@
 <h1 align="center">Hi 👋, I'm Sampada</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Software Engineer | Systems Architect</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=50&color=58A6FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=3%2B+Years+%40+IBM;MS+CS+%40+Northeastern;Full-Stack+Developer;Cloud+%26+DevOps;Always%20learning&center=true&width=380&height=50&color=6366F1&vCenter=true&size=20">
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samkul-swe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=samkul-swe&label=Profile%20views&color=6366F1&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Currently
 
-- 🔭 I'm currently working on **exciting software projects**
-- 🌱 I'm continuously learning **new technologies and frameworks**
-- ⚡ Fun fact: **I love solving complex problems with elegant code!**
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samkul-swe&theme=github-compact&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" />
-</div>
+```
+🎓  MS Computer Science @ Northeastern (Dec 2025) | GPA: 3.83
+🏢  Former Software Engineer @ IBM Instana (3+ years)
+👨‍🏫  Teaching Assistant - CS5600 Computer Systems
+🔍  Seeking Full-Time Opportunities (January 2026)
+```
 
 ---
 
-## 🤝 Connect With Me
+## 🛠️ Tech Stack
+
+**Languages:** Java • Python • JavaScript • C/C++ • SQL  
+**Backend:** Spring Boot • Node.js • FastAPI • Flask  
+**Frontend:** React • Next.js  
+**Cloud:** AWS Lambda • S3 • DynamoDB • Docker • Kubernetes  
+**Databases:** PostgreSQL • MongoDB • Firebase
+
+---
+
+## 📂 Featured Projects
+
+**[AI Demo Builder](https://github.com/samkul-swe/ai-demo-builder)** - Serverless platform that turns GitHub repos into demo videos. 18 Lambda microservices, Gemini AI analysis, FFmpeg stitching.
+
+**[SurfSense](https://github.com/MODSetter/SurfSense)** - Open-source AI research platform. Built web crawlers and event connectors across FastAPI backend and React frontend.
+
+**[MindMelt](https://github.com/samkul-swe/MindMelt)** - Educational platform using Socratic questioning with DeepSeek AI. Makes you think instead of copy-paste.
+
+**[TravelPal](https://github.com/samkul-swe/TravelPal)** - Android app for AI-powered trip planning. Firebase sync, Google Maps, offline mode.
+
+**[The-ROBIN](https://github.com/samkul-swe/The-Robin)** - ML fraud detector for job postings. 92% accuracy on 18K+ dataset.
+
+**[SUYT](https://github.com/samkul-swe/SUYT)** - Point camera at trash, get recycling instructions. Gemini-powered sustainability.
+
+---
+
+## 🤝 Connect
 
 <div align="center">
   
@@ -40,11 +61,6 @@
 ---
 
 <div align="center">
-  <h1>एकस्मिन् समये एकः विषयः अतीव उत्तमः नियमः अस्ति।</h1>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Built with ❤️ using GitHub README stats</sub>
+  <h3>एकस्मिन् समये एकः विषयः अतीव उत्तमः नियमः अस्ति।</h3>
+  <p><i>"One thing at a time is a very good rule."</i></p>
 </div>
