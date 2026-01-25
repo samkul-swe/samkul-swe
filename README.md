@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>क्रियायाः फलं निश्चितं नास्ति, परं कर्तव्यं निश्चितम्।</h3>
-  <p><i>"The result of action is uncertain, but duty is certain."</i></p>
+  <h3>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</h3>
+  <p><i>"You have the right to work only, but never to its fruits."</i></p>
 </div>
