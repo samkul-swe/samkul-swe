@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>धैर्यं सर्वत्र साधनम्।</h3>
-  <p><i>"Patience is the means everywhere."</i></p>
+  <h3>ज्ञानं परमं बलम्।</h3>
+  <p><i>"Knowledge is the ultimate strength."</i></p>
 </div>
