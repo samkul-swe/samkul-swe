@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>ज्ञानं परमं बलम्।</h3>
-  <p><i>"Knowledge is the ultimate strength."</i></p>
+  <h3>विद्या ददाति विनयम्।</h3>
+  <p><i>"Knowledge gives humility."</i></p>
 </div>
