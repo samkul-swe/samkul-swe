@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>विद्या ददाति विनयम्।</h3>
-  <p><i>"Knowledge gives humility."</i></p>
+  <h3>एकस्मिन् समये एकः विषयः अतीव उत्तमः नियमः अस्ति।</h3>
+  <p><i>"One thing at a time is a very good rule."</i></p>
 </div>
