@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>एकस्मिन् समये एकः विषयः अतीव उत्तमः नियमः अस्ति।</h3>
-  <p><i>"One thing at a time is a very good rule."</i></p>
+  <h3>ज्ञानं परमं बलम्।</h3>
+  <p><i>"Knowledge is the ultimate strength."</i></p>
 </div>
