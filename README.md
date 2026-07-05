@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>क्रियायाः फलं निश्चितं नास्ति, परं कर्तव्यं निश्चितम्।</h3>
-  <p><i>"The result of action is uncertain, but duty is certain."</i></p>
+  <h3>ज्ञानं परमं बलम्।</h3>
+  <p><i>"Knowledge is the ultimate strength."</i></p>
 </div>
