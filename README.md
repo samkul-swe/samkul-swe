@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>क्रियायाः फलं निश्चितं नास्ति, परं कर्तव्यं निश्चितम्।</h3>
-  <p><i>"The result of action is uncertain, but duty is certain."</i></p>
+  <h3>एकस्मिन् समये एकः विषयः अतीव उत्तमः नियमः अस्ति।</h3>
+  <p><i>"One thing at a time is a very good rule."</i></p>
 </div>
