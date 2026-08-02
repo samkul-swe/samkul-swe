@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</h3>
-  <p><i>"You have the right to work only, but never to its fruits."</i></p>
+  <h3>विद्या ददाति विनयम्।</h3>
+  <p><i>"Knowledge gives humility."</i></p>
 </div>
