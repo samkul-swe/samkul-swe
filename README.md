@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>धैर्यं सर्वत्र साधनम्।</h3>
-  <p><i>"Patience is the means everywhere."</i></p>
+  <h3>क्रियायाः फलं निश्चितं नास्ति, परं कर्तव्यं निश्चितम्।</h3>
+  <p><i>"The result of action is uncertain, but duty is certain."</i></p>
 </div>
