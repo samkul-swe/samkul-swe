@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <h3>ज्ञानं परमं बलम्।</h3>
-  <p><i>"Knowledge is the ultimate strength."</i></p>
+  <h3>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।</h3>
+  <p><i>"You have the right to work only, but never to its fruits."</i></p>
 </div>
